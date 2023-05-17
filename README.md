@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=douglasdcm&label=Profile%20views&color=0e75b6&style=flat" alt="douglasdcm" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=douglasdcm)](https://github.com/douglasdcm)
+![trophy](https://github-profile-trophy.vercel.app/?username=douglasdcm)
 
 - 🔭 I’m currently working on a personal project to help people to find jobs using AI. The project is called [Vagas pra mim](https://vagaspramim.onrender.com/)
 
