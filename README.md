@@ -15,7 +15,7 @@
 
 - 💬 Ask me about **Jmeter, Python and Selenium Webdriver**
 
-- 📄 Know about my experiences [I have an undergraduate degree in Mathematics and graduate degree in Artificial Intelligence, IT Management and Software Designing. I have been working with software quality assurance since 2010. I have ISTQB CTFL and CTFL-Performance Testing certifications and I love to work with automated tests using Selenium, Jmeter and Postman. I am a dedicated person and focused on my responsibilities, I am comfortable either in individual activities as collectives. I love to study, to travel and to meet people. I use to live the life in a balanced and light way.](I have an undergraduate degree in Mathematics and graduate degree in Artificial Intelligence, IT Management and Software Designing. I have been working with software quality assurance since 2010. I have ISTQB CTFL and CTFL-Performance Testing certifications and I love to work with automated tests using Selenium, Jmeter and Postman. I am a dedicated person and focused on my responsibilities, I am comfortable either in individual activities as collectives. I love to study, to travel and to meet people. I use to live the life in a balanced and light way.)
+- 📄 Know about my experiences I have an undergraduate degree in Mathematics and graduate degree in Artificial Intelligence, IT Management and Software Designing. I have been working with software quality assurance since 2010. I have ISTQB CTFL and CTFL-Performance Testing certifications and I love to work with automated tests using Selenium, Jmeter and Postman. I am a dedicated person and focused on my responsibilities, I am comfortable either in individual activities as collectives. I love to study, to travel and to meet people. I use to live the life in a balanced and light way.
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
@@ -23,10 +23,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/douglascardosom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglascardosom" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/douglas-cardosom" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="douglascardosom" height="30" width="40" /></a>
 <a href="https://kaggle.com/douglasdcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="douglasdcm" height="30" width="40" /></a>
 <a href="https://medium.com/@douglas.dcm" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@douglas.dcm" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/@testrock4634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@testrock4634" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@testrock4634" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="@testrock4634" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/douglas_morais" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="douglas_morais" height="30" width="40" /></a>
 </p>
 
