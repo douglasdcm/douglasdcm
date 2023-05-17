@@ -5,15 +5,15 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=douglasdcm" alt="douglasdcm" /></a> </p>
 
-- 🔭 I’m currently working a personal project to help people find jobs using AI. The projeect is called [Vagas pra mim](https://vagaspramim.onrender.com/)
+- 🔭 I’m currently working on a personal project to help people to find jobs using AI. The project is called [Vagas pra mim](https://vagaspramim.onrender.com/)
 
 - 🌱 I’m currently learning **Pyscript, Kubernetes, Flask, Nginx and Javascript (at least the basic)**
 
-- 👨‍💻 All of my projects are available at [here in](here in)
+- 👨‍💻 All of my projects are available at [here in GitHub](https://github.com/douglasdcm/douglasdcm)
 
-- 📝 I regularly write articles on [https://medium.com/@douglas.dcm](https://medium.com/@douglas.dcm)
+- 📝 I regularly write articles on [medium](https://medium.com/@douglas.dcm)
 
-- 💬 Ask me about **Jmeter and Selenium Webdriver**
+- 💬 Ask me about **Jmeter, Python and Selenium Webdriver**
 
 - 📄 Know about my experiences [I have an undergraduate degree in Mathematics and graduate degree in Artificial Intelligence, IT Management and Software Designing. I have been working with software quality assurance since 2010. I have ISTQB CTFL and CTFL-Performance Testing certifications and I love to work with automated tests using Selenium, Jmeter and Postman. I am a dedicated person and focused on my responsibilities, I am comfortable either in individual activities as collectives. I love to study, to travel and to meet people. I use to live the life in a balanced and light way.](I have an undergraduate degree in Mathematics and graduate degree in Artificial Intelligence, IT Management and Software Designing. I have been working with software quality assurance since 2010. I have ISTQB CTFL and CTFL-Performance Testing certifications and I love to work with automated tests using Selenium, Jmeter and Postman. I am a dedicated person and focused on my responsibilities, I am comfortable either in individual activities as collectives. I love to study, to travel and to meet people. I use to live the life in a balanced and light way.)
 
