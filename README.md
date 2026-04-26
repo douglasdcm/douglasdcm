@@ -1,25 +1,10 @@
 # Hi 👋! My name is Douglas. I'm currently working on Guará
 
-> A Python implementation of the **Page Transactions** pattern for **UI test automation**.
-
-![alt text](guara-transition.gif)
+> A Python implementation of the **Page Transactions** pattern.
 
 [![PyPI Downloads](https://static.pepy.tech/badge/guara)](https://pepy.tech/projects/guara) ![GitHub Repo stars](https://img.shields.io/github/stars/douglasdcm/guara?style=social) ![GitHub forks](https://img.shields.io/github/forks/douglasdcm/guara) ![GitHub contributors](https://img.shields.io/github/contributors/douglasdcm/guara)
 
-## [Try it today!](https://github.com/douglasdcm/guara)
-
-![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge&logo=Selenium&logoColor=white) ![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white) and [more](https://github.com/douglasdcm/guara/tree/main/examples)...
-
-# About Guará
-
-| ❓ Question           | 💡 Answer |
-|----------------------|----------|
-| **What is it?**  | 🚀 It is a new way to **organize** your automation testing using **pure Python code**. |
-| **Why use it?**        | 😱 It is relevant to **SDETs** that want a simple-to-use framework that binds **low-level code, readability, and flexibility**. |
-| **Where do I use it?**   | 🎉 In your daily automation. It doesn't matter if you prefer **Selenium, Playwright, Dogtail**. Just get it and use it! |
-| **How do I use it?**   | 😍 Just install and play. The syntax is as easy as it could be. Try to read it as a **plain English** statement. <br><br>```MyApplication.at(apage.DoSomething [,with_parameter=value, ...]).asserts(it.Matches, a_condition)``` |
-| **Show me the code!**  | 👨‍💻 You can find it [here](https://github.com/douglasdcm/guara). **Clone, fork, star it**! |
-| **What did you think?** | 🤔 [Is it easy to use?](https://github.com/douglasdcm/guara/discussions) |
+## 💡 [Try it today!](https://github.com/douglasdcm/guara)
 
 # About me
 
